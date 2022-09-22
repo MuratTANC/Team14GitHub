@@ -3,5 +3,7 @@ public class Orhan2 {
         System.out.println("Orhan 2 eklendi");
 
         System.out.println("Deneme 2 eklendi");
+
+        System.out.println("Deneme 3 eklendi");
     }
 }
