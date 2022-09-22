@@ -4,6 +4,8 @@ public class alparslan {
 
         System.out.println("asdasd");
 
+        System.out.println("22.09.2022 ekleme yapıldı");
+
 
     }
 }
